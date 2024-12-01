@@ -1,5 +1,4 @@
-f = open("input.txt")
-
+f = open("C:\\Users\\mogri\\PycharmProjects\\AoC\\input.txt","r")
 l1 = []
 l2 = []
 for line in f:
