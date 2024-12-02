@@ -1,4 +1,4 @@
-def isSave(li): # returns -1 if true else index of wrong element
+def isSave(li):
     mode = li[0] < li[1]  #false = desc
     for i in range(0,len(li)-1):
         if (li[i] > li[i+1] and mode is True) or (li[i] < li[i+1] and mode is False):
