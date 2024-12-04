@@ -40,7 +40,7 @@ def containsXmas(list):
     return False
 
 
-f = open("C:\\Users\\mogri\\PycharmProjects\\AoC\\input.txt","r")
+f = open("input.txt","r")
 lines= []
 sum = 0
 for l in f:

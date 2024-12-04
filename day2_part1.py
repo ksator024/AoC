@@ -8,7 +8,7 @@ def isSave(li):
             return False
     return True
 
-f = open("C:\\Users\\mogri\\PycharmProjects\\AoC\\input.txt","r")
+f = open("input.txt","r")
 sum = 0
 for line in f:
     li = line.split()

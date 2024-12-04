@@ -34,7 +34,7 @@ def setMode(begin,line):
 
 
 
-f = open("C:\\Users\\mogri\\PycharmProjects\\AoC\\input.txt","r")
+f = open("input.txt","r")
 sum = 0
 corrected = False
 mode = True # true = enable
