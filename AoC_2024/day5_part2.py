@@ -49,7 +49,7 @@ def fixUpdate(update,rules):
     return newUpdate
 
 
-f = open("input.txt","r")
+f = open("../Input.txt", "r")
 sum = 0
 rules = {}
 updates = []

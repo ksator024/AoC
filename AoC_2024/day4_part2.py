@@ -38,7 +38,7 @@ def correct(x,y,lines):
     return True
 
 
-f = open("input.txt","r")
+f = open("../Input.txt", "r")
 lines= []
 sum = 0
 for l in f:

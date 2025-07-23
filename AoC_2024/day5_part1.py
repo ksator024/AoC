@@ -18,7 +18,7 @@ def checkSublist(key,vorList,backList, rules):
     return True
 
 
-f = open("input.txt","r")
+f = open("../Input.txt", "r")
 sum = 0
 rules = {}
 updates = []
