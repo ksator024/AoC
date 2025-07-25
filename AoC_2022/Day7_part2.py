@@ -1,3 +1,9 @@
+
+# Objekt Orientierter Ansatz. Sicher auch simpler Lösbar
+
+
+
+
 class Ordner:
     def __init__(self, name):
         self.name = name
